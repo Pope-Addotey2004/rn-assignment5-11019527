@@ -107,6 +107,7 @@ const styles = StyleSheet.create({
   transactionmain:{
     flexDirection:'row',
     justifyContent:'space-between',
+    marginTop: 40,
   },
   transaction:{
     fontWeight:'bold',
@@ -116,5 +117,6 @@ const styles = StyleSheet.create({
     fontWeight:'bold',
     color:'blue',
     fontSize:20,
+    marginTop:15,
   },
 });
